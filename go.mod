@@ -24,6 +24,7 @@ require (
 	github.com/nxadm/tail v1.4.8 // indirect
 	github.com/oxtoacart/bpool v0.0.0-20190530202638-03653db5a59c // indirect
 	github.com/serenize/snaker v0.0.0-20201027110005-a7ad2135616e // indirect
+	github.com/sijms/go-ora/v2 v2.5.3 // indirect
 	github.com/sirupsen/logrus v1.8.1 // indirect
 	github.com/spf13/afero v1.1.2 // indirect
 	golang.org/x/crypto v0.0.0-20220315160706-3147a52a75dd // indirect
